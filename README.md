@@ -1,2 +1,2 @@
 # Ydennek-classes
-a collection of projects from school
+This is a Library database program using classes and subclasses.
